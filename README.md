@@ -1,4 +1,4 @@
-**The Research Buddy** Search Engine aims to bridge the gap between the students and their potential PIs.
+The **Research Buddy** Search Engine aims to bridge the gap between the students and their potential PIs.
 
 The data provided here is relevant and sufficient to run the project.
 

@@ -9,7 +9,7 @@ The code provided here contains 3 files:
 
 2) WebScrapper.py- This contains the code for scraping data from IITGN faculty profile. Similar techniques have been used to scrape data of other institutes.
 
-3) Preprocessing_Data.ipynb- This contains the code to get more required information after getting data from web scrapping like professor's scholar url, their h and i10 index etc. for all institutes.
+3) Preprocessing_Data.ipynb- This contains the code to get more required information after getting data from web scrapping like professor's scholar url, their h-index and i-index etc for all institutes you can scrap data for.
 
 -------------------------------------------------
 
